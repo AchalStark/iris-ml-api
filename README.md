@@ -41,4 +41,4 @@ python -m uvicorn main:app --reload
 Open http://localhost:8000/docs
 
 ## Live URL
-[https://your-app.onrender.com](https://iris-ml-api-g2jf.onrender.com)
+https://iris-ml-api-g2jf.onrender.com
